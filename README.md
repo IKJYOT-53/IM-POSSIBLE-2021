@@ -1,4 +1,4 @@
-# Sun_Hacks_2021
+# IM-POSSIBE-2021
 ## Inspiration
 Online Classes inspired us the most for this project.
 So here goes the story!
